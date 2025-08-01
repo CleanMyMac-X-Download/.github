@@ -1,6 +1,6 @@
 # CleanMyMac X Download - Optimization & Cleaning Tool
 
-![CleanMyMac X Screenshot](https://cdn.macpaw.com/images/products/cleanmymac/cleanmymac-x@2x.png)
+![CleanMyMac X Screenshot 1](https://lucidgen.com/wp-content/uploads/2025/05/tai-cleanmymac.png)
 
 ---
 
@@ -22,6 +22,8 @@ The software offers a comprehensive suite of cleaning tools that go far beyond b
 Beyond cleaning, CleanMyMac X provides powerful maintenance tools that can help speed up your Mac by running maintenance scripts, freeing up RAM, and managing startup items. The application also includes specialized tools for complete app uninstallation, malware detection and removal, and sensitive data protection. With its intuitive interface and one-click solutions, CleanMyMac X makes system optimization accessible to users of all experience levels.
 
 For creative professionals and power users, CleanMyMac X offers advanced features like large file management, space visualization, and email attachment cleanup. The application is regularly updated to support the latest macOS versions and works seamlessly with both Intel and Apple Silicon Macs.
+
+![CleanMyMac X Screenshot 2](https://software.onthehub.com/documentation/macpaw/System%20junk.png)
 
 ---
 
